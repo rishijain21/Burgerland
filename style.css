@@ -62,7 +62,7 @@ header .ul {
 }
 
 .banner {
-  background-image: url("/Images/2x_web_20210223161517137200_482x264jpg-removebg-preview.png");
+  background-image: url("Images/2x_web_20210223161517137200_482x264jpg-removebg-preview.png");
   background-color: rgb(214, 35, 0);
   height: 60%;
   background-position: right;
