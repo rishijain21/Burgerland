@@ -164,6 +164,8 @@ header .ul {
 @media screen and (max-width: 600px) {
     .header a {
         font-size: 15px;
+        padding: 9px;
+        padding-top: 18px;
     }
     .banner {
         background-position: center;
