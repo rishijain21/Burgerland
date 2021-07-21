@@ -187,6 +187,10 @@ margin: auto;
 }
 
 
+.special-menu img{
+  border: 3px solid white;
+  border-radius: 20px;
+}
 
 .footer {
   position: relative;
